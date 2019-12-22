@@ -13973,8 +13973,8 @@ textarea {
   border-radius: 3px;
   padding: 0.625rem 0;
   margin-bottom: 20px;
-  color: #555;
-  background-color: #fff !important;
+  color: #fff;
+  background-color: #ffb900 !important;
   box-shadow: 0 4px 18px 0px rgba(0, 0, 0, 0.12), 0 7px 10px -5px rgba(0, 0, 0, 0.15);
 }
 
@@ -14221,7 +14221,7 @@ textarea {
   background-color: transparent !important;
   box-shadow: none;
   padding-top: 25px;
-  color: #fff;
+  color: #ffb900;
 }
 
 #navbar .navbar {
@@ -17629,7 +17629,7 @@ footer .pull-center {
     overflow-y: scroll;
   }
   .navbar.navbar-transparent .navbar-toggler .navbar-toggler-icon {
-    background-color: #fff;
+    background-color: #ffb900;
   }
   #bodyClick {
     height: 100%;
