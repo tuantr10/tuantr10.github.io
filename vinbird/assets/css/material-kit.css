@@ -17319,6 +17319,7 @@ footer .pull-center {
 .index-page .page-header {
   height: 90vh;
   overflow: hidden;
+  background-color: brown !important;
 }
 
 .index-page .brand {
